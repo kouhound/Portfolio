@@ -1,0 +1,8 @@
+ステージセレクトのカメラ移動処理
+Assets/EventCamera/SSelectCam.cs
+Assets/EventCamera/Easing.cs
+ポーズメニュー
+Assets/Pause/PauseSystemcs
+Assets/Pause/PauseInterface.cs
+
+各役職間情報伝達
